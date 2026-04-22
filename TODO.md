@@ -1,8 +1,7 @@
-# Task: Make section buttons slightly darker in light mode
+# TODO: Change background to dark blue
 
-## Steps from Approved Plan
+- [x] Create TODO.md 
+- [x] Edit index.html: Update default body gradient
+- [x] Edit index.html: Update dark-theme body gradient  
+- [x] Verify changes and complete
 
-### 1. [x] Create this TODO.md file (done)
-### 2. [x] Edit 1.html: Add light-mode specific .section-title backgrounds (default: rgba(255,255,255,0.02), hover:0.10, expanded:0.15)
-### 3. [x] Test: Reload page, toggle light mode, verify only section buttons affected, no dark mode breakage
-### 4. [x] Update TODO.md: Mark complete and attempt_completion
